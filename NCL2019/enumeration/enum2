@@ -1,0 +1,3 @@
+array = [83, 75, 89, 45, 76, 89, 78, 66, 45, 56, 53, 56, 48]
+for letter in array:
+    print(chr(letter))
